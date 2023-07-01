@@ -1,4 +1,3 @@
-### !(https://media.wired.com/photos/593261cab8eb31692072f129/master/w_2560%2Cc_limit/85120553.jpg)
 ### Name and last name
 ##### Ralina Khakimova
 ********************************************************************************
