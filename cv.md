@@ -1,6 +1,4 @@
-###
-! [Photo] (https://www.wired.com/2015/04/find-mesmerizing-creatures-web/)
-
+### ![Photo] (https://www.wired.com/2015/04/find-mesmerizing-creatures-web/)
 ### Name and last name
 ##### Ralina Khakimova
 ********************************************************************************
@@ -28,10 +26,10 @@ describe("basic tests", function(){
 ```
 *********************************************************************************
 ### Experience
-##### [CV:] (https://github.com/Li-839/rsschool-cv/edit/gh-pages/cv.md)
+##### CV: (https://github.com/Li-839/rsschool-cv/edit/gh-pages/cv.md)
 *********************************************************************************
-###Education
-#####Course on udemy
+### Education
+##### Course on udemy
 *********************************************************************************
-###English language
-#####A2
+### English language
+##### A2
