@@ -1,4 +1,4 @@
-### ![Photo] (https://www.wired.com/2015/04/find-mesmerizing-creatures-web/)
+### !("https://www.wired.com/2015/04/find-mesmerizing-creatures-web/")
 ### Name and last name
 ##### Ralina Khakimova
 ********************************************************************************
