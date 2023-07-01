@@ -25,7 +25,7 @@ describe("basic tests", function(){
 ```
 *********************************************************************************
 ### Experience
-##### [CV:](https://github.com/Li-839/rsschool-cv/edit/gh-pages/cv.md)
+##### [CV](https://github.com/Li-839/rsschool-cv/edit/gh-pages/cv.md)
 *********************************************************************************
 ### Education
 ##### Course on udemy
